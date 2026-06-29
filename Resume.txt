@@ -1,0 +1,51 @@
+PAARTH GARG
+
+Email:abc@example.com
+Phone: +91 6969696969
+
+PROFILE :-
+Motivated Mechanical Engineering student with a strong interest in Data Science, Machine Learning, and Software Development. Passionate about solving real-world problems using Python and data-driven techniques.
+
+EDUCATION :-
+B.Tech in Computer Science Engineering
+Delhi Technological University (DTU)
+
+TECHNICAL SKILLS :-
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Git
+- GitHub
+- Microsoft Excel
+- Communication
+- Teamwork
+
+PROJECTS :-
+
+House Price Prediction >
+- Developed a machine learning model to predict house prices using Linear Regression.
+- Performed data cleaning, feature engineering, and model evaluation using Python, Pandas, and Scikit-learn.
+
+Customer Churn Prediction >
+- Built a classification model to predict customer churn.
+- Visualized insights using Matplotlib and Seaborn.
+
+AI Study Assistant >
+- Developed a command-line AI Study Assistant using Python and Gemini API.
+- Implemented session memory and generated structured study plans.
+
+CERTIFICATIONS :-
+- Machine Learning Fundamentals
+- Python for Data Science
+
+EXTRACURRICULAR ACTIVITIES :-
+- Active participant in coding competitions.
+- Collaborated in team-based technical projects.
+
+LANGUAGES :-
+English, Hindi 

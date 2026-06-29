@@ -1,0 +1,21 @@
+RESUME ANALYSIS REPORT
+
+Match Score: 71.43%
+
+Matched Skills:
+✓ - communication
+✓ - data analysis
+✓ - data visualization
+✓ - git
+✓ - machine learning
+✓ - microsoft excel
+✓ - numpy
+✓ - pandas
+✓ - python
+✓ - sql
+
+Missing Skills:
+✗ - power bi
+✗ - problem solving
+✗ - statistics
+✗ - tableau

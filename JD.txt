@@ -1,0 +1,37 @@
+DATA ANALYST INTERN
+
+Company: TechVision Analytics
+
+We are looking for a Data Analyst Intern to join our growing analytics team.
+
+Responsibilities:
+- Analyze business data and generate insights.
+- Create dashboards and reports for stakeholders.
+- Work closely with cross-functional teams.
+- Perform data cleaning and preprocessing.
+- Build data-driven solutions to improve business decisions.
+
+Required Skills:
+- Python
+- SQL
+- Pandas
+- NumPy
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Microsoft Excel
+- Power BI
+- Tableau
+- Statistics
+- Communication
+- Problem Solving
+- Git
+
+Preferred Skills:
+- Scikit-learn
+- Teamwork
+- Critical Thinking
+- Dashboard Development
+
+Internship Type: Full Time
+Location: Remote

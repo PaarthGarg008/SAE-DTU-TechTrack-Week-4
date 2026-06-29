@@ -11,6 +11,13 @@ This project was developed as part of the **SAE-DTU FORGETRACK 2026 Tech Track -
 
 ---
 
+## Requirements
+
+* Resume of applicant (Text file)
+* Job Description of company (Text file)
+
+---
+
 ## Features
 
 * Reads Resume and Job Description text files.

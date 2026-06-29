@@ -84,12 +84,15 @@ def main():
 
     print("\n===== RESUME KEYWORD CHECKER =====\n")
 
-    if len(sys.argv) != 3:
-        print("Usage: python Resume_Keyword_Checker.py resume.txt jd.txt")
-        return
+    if len(sys.argv) == 3:
+        resume_file = sys.argv[1]
+        jd_file = sys.argv[2]
+    else:
+        print("No command-line arguments provided.")
+        print("Using default files...\n")
 
-    resume_file = sys.argv[1]
-    jd_file = sys.argv[2]
+        resume_file = "Resume.txt"
+        jd_file = "JD.txt"
 
     print("Reading files...")
 
